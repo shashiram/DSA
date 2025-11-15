@@ -1,4 +1,4 @@
-public class kthSmallestInSOrtedMatrix {
+public class KthSmallestInSortedMatrix {
     public int kthSmallest(int[][] m, int k) {
 
         int n = m.length;
